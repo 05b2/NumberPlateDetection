@@ -48,6 +48,7 @@ If you're running locally, replace `cv2_imshow` with `cv2.imshow` and make sure 
 
 ## Example Output
 ![Screenshot](images/Screenshot(77).png)
+![outputScreenShot](images/Screenshot (77).png)
 
 
 ## Dependencies
