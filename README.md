@@ -46,6 +46,10 @@ If you're running locally, replace `cv2_imshow` with `cv2.imshow` and make sure 
 └── README.md                # Project documentation
 ```
 
+## Example Output
+![Screenshot](images/screenshot(77).png)
+
+
 ## Dependencies
 
 - OpenCV
